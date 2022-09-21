@@ -78,8 +78,7 @@ class ViewController: UIViewController {
         decimal_Button.layer.cornerRadius = 15
         decimal_Button.layer.masksToBounds = true
         
-        
-        
+
         
     }
 
